@@ -542,20 +542,25 @@ streamlit==1.40.1       # Interface web
 
 ```
 tour-extraction-system/
-├── README.md                    # Documentação principal
-├── requirements.txt             # Dependências Python
-├── .env.example                 # Template de variáveis
-├── config/
-│   └── settings.yaml           # Configurações
 ├── src/
-│   ├── core/                   # Componentes centrais
-│   ├── processors/             # Processadores (4 etapas)
+│   ├── core/                    # Componentes centrais
+│   │   ├── config.py           # Gerenciamento de configurações
+│   │   └── logger.py           # Sistema de logging
+│   ├── processors/             # Processadores principais
+│   │   ├── pdf_chunker.py      # Conversão PDF → Markdown
+│   │   ├── semantic_indexer.py # Indexação FAISS
+│   │   ├── tour_extractor.py   # Extração com IA
+│   │   ├── result_exporter.py  # Exportação JSON/Excel
+│   │   └── result_refiner.py   # Refinamento final
 │   ├── utils/                  # Utilitários
-│   └── pipeline.py             # Orquestrador
+│   │   └── rate_limiter.py     # Controle de requisições
+│   ├── schemas.py              # Esquemas de dados
+│   └── pipeline.py             # Orquestrador principal
+├── config/
+│   └── settings.yaml           # Configurações do sistema
 ├── app.py                      # Interface Streamlit
-├── main.py                     # CLI
-├── docs/                       # Documentação técnica
-└── tests/                      # Testes unitários
+├── main.py                     # CLI (Ponto de entrada)
+├── .venv                       # Ambiente Virtual
 ```
 
 ### Como Usar o Repositório

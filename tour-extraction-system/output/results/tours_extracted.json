@@ -1,0 +1,3209 @@
+{
+  "agency": "Nome da Agência",
+  "product": {
+    "type": "Shared Tour",
+    "general_conditions": "Condições gerais do catálogo...",
+    "year": 2025,
+    "destination": [
+      "Colombia"
+    ]
+  },
+  "tours": [
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "AMANECER ISLEÑO",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2.5,
+        "unit": "hours"
+      },
+      "description": "Neste passeio você viverá a experiência de conhecer a calma matinal da baía, ver o nascer do sol sobre o mar de sete cores e presenciar a paleta de cores que ela se transforma com o primeiro raio de sol. A atividade termina com um passeio de snorkeling numa zona de corais e cardumes de peixes.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 69,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 69,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 69,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 69,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 69,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "05:30",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Lobby dos Hotéis Decameron",
+      "includes": [
+        "Traslados terrestres",
+        "Acompanhamento turístico especializado",
+        "Passeio de 2,5 horas"
+      ],
+      "excludes": [
+        "Despesas ou serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 2,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Reserva a partir de 2 passageiros. Aplicam-se restrições devido às condições meteorológicas.",
+      "source_chunks": [
+        "page_003.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "NOCHE BLANCA",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3,
+        "unit": "hours"
+      },
+      "description": "Você desfrutará de uma experiência única, saboreando um coquetel de boas-vindas e um delicioso jantar. Sob as estrelas você ouvirá música dançante com o DJ e um show ao vivo em um barco confortável. Este passeio é perfeito para quem procura uma noite memorável durante as férias.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 58,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 58,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 58,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 58,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 58,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "18:30",
+        "return_time": null,
+        "frequency": "Diário, exceto domingos"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio noturno pela baía",
+        "Jantar buffet",
+        "Coquetel de boas-vindas (não cerveja)",
+        "Show ao vivo"
+      ],
+      "excludes": [],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": [
+          "Domingos"
+        ]
+      },
+      "min_adults": 2,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Horário do encontro: 18h30, o horário pode variar devido a restrições de navegabilidade.",
+      "source_chunks": [
+        "page_003.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "Transfer Aeroporto - Hotel ZONA 1 ou vice-versa (Diurno)",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": "Zona 1"
+      },
+      "duration": {
+        "quantity": null,
+        "unit": null
+      },
+      "description": "Transferência privada com recepção no aeroporto, transporte terrestre de ida e volta em veículo com ar condicionado até o hotel selecionado. Assistência no Aeroporto na chegada e saída do seu voo.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 21,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 14,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 12,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 12,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 12,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "07:00",
+        "return_time": "20:00",
+        "frequency": "Diário"
+      },
+      "meeting_point": "Aeroporto",
+      "includes": [
+        "Recepção no aeroporto",
+        "Transporte terrestre",
+        "Assistência no Aeroporto"
+      ],
+      "excludes": [
+        "Despesas ou serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Qualquer bagagem adicional terá um custo a pagar no destino. Caixas ou artigos desportivos não são aceites como bagagem.",
+      "source_chunks": [
+        "page_002.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "AMANECER ISLEÑO",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2.5,
+        "unit": "hours"
+      },
+      "description": "Neste passeio você viverá a experiência de conhecer a calma matinal da baía, ver o nascer do sol sobre o mar de sete cores e presenciar a paleta de cores que ela se transforma com o primeiro raio de sol. A atividade termina com um passeio de snorkeling numa zona de corais e cardumes de peixes.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 69,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "05:30",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Lobby dos Hotéis Decameron",
+      "includes": [
+        "Traslados terrestres",
+        "Acompanhamento turístico especializado",
+        "Passeio de 2,5 horas"
+      ],
+      "excludes": [
+        "Despesas ou serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 2,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Aplicam-se restrições devido às condições meteorológicas.",
+      "source_chunks": [
+        "page_002.md"
+      ]
+    },
+    {
+      "id": "3",
+      "city": "San Andrés",
+      "title": "NOCHE BLANCA",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3,
+        "unit": "hours"
+      },
+      "description": "Você desfrutará de uma experiência única, saboreando um coquetel de boas-vindas e um delicioso jantar. Sob as estrelas você ouvirá música dançante com o DJ e um show ao vivo em um barco confortável. Este passeio é perfeito para quem procura uma noite memorável durante as férias.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 58,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "18:30",
+        "return_time": null,
+        "frequency": "Diário, exceto domingos"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio noturno pela baía",
+        "Jantar buffet",
+        "Coquetel de boas-vindas",
+        "Show ao vivo"
+      ],
+      "excludes": [
+        "Cerveja"
+      ],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": [
+          "Domingos"
+        ]
+      },
+      "min_adults": 2,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "O horário pode variar devido a restrições de navegabilidade.",
+      "source_chunks": [
+        "page_002.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "Amanecer Isleño",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2.5,
+        "unit": "hours"
+      },
+      "description": "Neste passeio você viverá a experiência de conhecer a calma matinal da baía, ver o nascer do sol sobre o mar de sete cores e presenciar a paleta de cores que ela se transforma com o primeiro raio de sol. A atividade termina com um passeio de snorkeling numa zona de corais e cardumes de peixes.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 69,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "05:30",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Lobby dos Hotéis Decameron",
+      "includes": [
+        "Traslados terrestres",
+        "Acompanhamento turístico especializado",
+        "Passeio de 2,5 horas"
+      ],
+      "excludes": [
+        "Despesas ou serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Reserva a partir de 2 passageiros.",
+      "source_chunks": [
+        "page_004.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "Noite Branca",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3,
+        "unit": "hours"
+      },
+      "description": "Você desfrutará de uma experiência única, saboreando um coquetel de boas-vindas e um delicioso jantar. Sob as estrelas você ouvirá música dançante com o DJ e um show ao vivo em um barco confortável. Este passeio é perfeito para quem procura uma noite memorável durante as férias.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 58,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "18:30",
+        "return_time": null,
+        "frequency": "Diário, exceto domingos"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio noturno pela baía",
+        "Jantar buffet",
+        "Coquetel de boas-vindas (não cerveja)",
+        "Show ao vivo"
+      ],
+      "excludes": [],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": [
+          "Domingos"
+        ]
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "O horário pode variar devido a restrições de navegabilidade. Reserva de 2 passageiros.",
+      "source_chunks": [
+        "page_004.md"
+      ]
+    },
+    {
+      "id": "3",
+      "city": "San Andrés",
+      "title": "Transfer Aeroporto - Hotel ZONA 1",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": "Zona 1"
+      },
+      "duration": {
+        "quantity": null,
+        "unit": null
+      },
+      "description": "Transferência privada com recepção no aeroporto com placa de boas-vindas, transporte terrestre de ida e volta, em veículo com ar condicionado até o hotel selecionado. Assistência no Aeroporto na chegada e saída do seu voo, briefing de boas-vindas no Hotel.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 21,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 14,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 12,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 12,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 12,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": null,
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Aeroporto",
+      "includes": [
+        "Recepção no aeroporto",
+        "Transporte terrestre",
+        "Assistência no Aeroporto"
+      ],
+      "excludes": [
+        "Bagagem adicional"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Atendimento Diurno: 07h00 - 20h00. Serviço Noturno: 21h00 - 06h59. Recomendações: Será transportada uma bagagem de tamanho médio com peso máximo de 23 quilos, além de uma mala de mão com peso máximo de 10 quilos por pessoa.",
+      "source_chunks": [
+        "page_004.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "Mini Catamarán",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2,
+        "unit": "hours"
+      },
+      "description": "Eles descobrirão um paraíso caribenho fazendo um passeio ecológico de catamarã, incluindo uma visita ao manguezal da baía. Um guia especializado os acompanhará para mostrar a grande variedade de flora e fauna marinha dos locais visitados. Você poderá praticar snorkel e snorkel em um dos mais belos recifes do Caribe.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [],
+      "schedule": {
+        "departure_time": "09:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Lobby do Hotel",
+      "includes": [
+        "Transporte terrestre Hotel-Náutica-Hotel",
+        "instrução teórico-prática",
+        "passeio de aproximadamente 2 horas",
+        "guia acompanhante"
+      ],
+      "excludes": [
+        "Despesas ou serviços não especificados"
+      ],
+      "language_options": [],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 2,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Aplica restrições e m função da capacidade de mobilidade do passageiro. Barco pequeno com capacidade máxima de 8 passageiros.",
+      "source_chunks": [
+        "page_005.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "Retorne à Ilha Especial",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3.5,
+        "unit": "hours"
+      },
+      "description": "Irão explorar o melhor da ilha com o City Tour completo com guia-acompanhante, que oferece a oportunidade ímpar de visitar diferentes locais turísticos da Ilha. Conhecer locais tradicionais como a Primeira Igreja Baptista, a Vista Oeste, a Casa Museu da Ilha, a Marinha Museu ou Blower Hole. Eles visitam três (3) desses locais turísticos, que podem variar.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [],
+      "schedule": {
+        "departure_time": "08:30",
+        "return_time": null,
+        "frequency": "Terça, Quinta e Sábado"
+      },
+      "meeting_point": "Lobby dos Hotéis Decameron",
+      "includes": [
+        "Passeio em microônibus ou chiva",
+        "acompanhante turístico",
+        "entrada nos locais visitados",
+        "bebidas nacionais",
+        "lanche"
+      ],
+      "excludes": [],
+      "language_options": [],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 2,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Aplicam-se restrições de acordo com a capacidade de mobilidade do passageiro.",
+      "source_chunks": [
+        "page_005.md"
+      ]
+    },
+    {
+      "id": "3",
+      "city": "San Andrés",
+      "title": "Passeio de um dia pela Baía",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2,
+        "unit": "hours"
+      },
+      "description": "Desfrute de um emocionante passeio de catamarã pela bela baía principal de San Andrés. Este divertido passeio é oferecido tanto na tranquilidade da manhã quanto na magia da tarde. Durante o passeio eles curtem música caribenha, rumba e muita diversão. Não perca a oportunidade de viver uma experiência inesquecível neste paraíso tropical!",
+      "pricing_type": "per_person",
+      "pricing_matrix": [],
+      "schedule": {
+        "departure_time": null,
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio de aproximadamente uma hora e meia",
+        "bebida de boas-vindas",
+        "passeio pela baía principal",
+        "DJ animador",
+        "dançarinos ao vivo"
+      ],
+      "excludes": [
+        "Transporte terrestre hotel - marina - hotel",
+        "bebidas",
+        "alimentação",
+        "outras despesas não especificadas"
+      ],
+      "language_options": [],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 2,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "",
+      "source_chunks": [
+        "page_005.md"
+      ]
+    },
+    {
+      "id": "4",
+      "city": "San Andrés",
+      "title": "Semi - Sumergible",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 1.5,
+        "unit": "hours"
+      },
+      "description": "Embarque em uma viagem fascinante pelas profundezas do Mar do Caribe e descubra a beleza e a riqueza natural dos recifes de coral do arquipélago de San Andrés a bordo de um semissubmersível. Você poderá admirar de perto a vida marinha e as impressionantes paisagens que oferece um dos mares mais cristalinos do mundo.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [],
+      "schedule": {
+        "departure_time": "14:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio semi-submersível",
+        "banho de mar durante o passeio"
+      ],
+      "excludes": [
+        "Transporte terrestre",
+        "outras despesas não especificadas"
+      ],
+      "language_options": [],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 2,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "",
+      "source_chunks": [
+        "page_005.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "Transfer Aeroporto - Hotel ZONA 1 ou vice-versa (Diurno)",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": "Zona 1"
+      },
+      "duration": {
+        "quantity": null,
+        "unit": null
+      },
+      "description": "Serviço de transfer privado inclui recepção no aeroporto com placa de boas-vindas, transporte terrestre de ida e volta, em veículo com ar condicionado até o hotel selecionado. Assistência no Aeroporto na chegada e saída do seu voo, briefing de boas-vindas no Hotel.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 21,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 14,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 12,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 12,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 12,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "07:00",
+        "return_time": "20:00",
+        "frequency": "Diário"
+      },
+      "meeting_point": "Aeroporto",
+      "includes": [
+        "Recepção no aeroporto",
+        "Transporte terrestre",
+        "Assistência no Aeroporto"
+      ],
+      "excludes": [
+        "Bagagem adicional",
+        "Caixas ou artigos desportivos"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Qualquer bagagem adicional terá um custo a pagar no destino, caixas ou artigos desportivos não são aceites como bagagem. Atendimento Diurno: 07h00 - 20h00. Serviço Noturno: 21h00 - 06h59.",
+      "source_chunks": [
+        "page_001.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "Transfer Aeroporto - Hotel ZONA 2 ou vice-versa (Diurno)",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": "Zona 2"
+      },
+      "duration": {
+        "quantity": null,
+        "unit": null
+      },
+      "description": "Serviço de transfer privado inclui recepção no aeroporto com placa de boas-vindas, transporte terrestre de ida e volta, em veículo com ar condicionado até o hotel selecionado. Assistência no Aeroporto na chegada e saída do seu voo, briefing de boas-vindas no Hotel.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 23,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 17,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 13,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 13,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 13,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "07:00",
+        "return_time": "20:00",
+        "frequency": "Diário"
+      },
+      "meeting_point": "Aeroporto",
+      "includes": [
+        "Recepção no aeroporto",
+        "Transporte terrestre",
+        "Assistência no Aeroporto"
+      ],
+      "excludes": [
+        "Bagagem adicional",
+        "Caixas ou artigos desportivos"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Qualquer bagagem adicional terá um custo a pagar no destino, caixas ou artigos desportivos não são aceites como bagagem. Atendimento Diurno: 07h00 - 20h00. Serviço Noturno: 21h00 - 06h59.",
+      "source_chunks": [
+        "page_001.md"
+      ]
+    },
+    {
+      "id": "3",
+      "city": "San Andrés",
+      "title": "Transfer Aeroporto - Hotel ZONA 3 ou vice-versa (Diurno)",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": "Zona 3"
+      },
+      "duration": {
+        "quantity": null,
+        "unit": null
+      },
+      "description": "Serviço de transfer privado inclui recepção no aeroporto com placa de boas-vindas, transporte terrestre de ida e volta, em veículo com ar condicionado até o hotel selecionado. Assistência no Aeroporto na chegada e saída do seu voo, briefing de boas-vindas no Hotel.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 30,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 23,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 20,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 20,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 20,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "07:00",
+        "return_time": "20:00",
+        "frequency": "Diário"
+      },
+      "meeting_point": "Aeroporto",
+      "includes": [
+        "Recepção no aeroporto",
+        "Transporte terrestre",
+        "Assistência no Aeroporto"
+      ],
+      "excludes": [
+        "Bagagem adicional",
+        "Caixas ou artigos desportivos"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Qualquer bagagem adicional terá um custo a pagar no destino, caixas ou artigos desportivos não são aceites como bagagem. Atendimento Diurno: 07h00 - 20h00. Serviço Noturno: 21h00 - 06h59.",
+      "source_chunks": [
+        "page_001.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "Passeio de um dia pela Baía",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2,
+        "unit": "hours"
+      },
+      "description": "Desfrute de um emocionante passeio de catamarã pela bela baía principal de San Andrés. Este divertido passeio é oferecido tanto na tranquilidade da manhã quanto na magia da tarde. Durante o passeio eles curtem música caribenha, rumba e muita diversão. Não perca a oportunidade de viver uma experiência inesquecível neste paraíso tropical!",
+      "pricing_type": null,
+      "options": [],
+      "pricing_matrix": [],
+      "schedule": {
+        "departure_time": null,
+        "return_time": null,
+        "frequency": "Todos os dias"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio de aproximadamente uma hora e meia",
+        "bebida de boas-vindas",
+        "passeio pela baía principal",
+        "DJ animador",
+        "dançarinos ao vivo"
+      ],
+      "excludes": [
+        "Transporte terrestre hotel - marina - hotel",
+        "bebidas",
+        "alimentação",
+        "outras despesas não especificadas"
+      ],
+      "language_options": [],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "",
+      "source_chunks": [
+        "page_007.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "Semi - Sumergible",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 1.5,
+        "unit": "hours"
+      },
+      "description": "Embarque em uma viagem fascinante pelas profundezas do Mar do Caribe e descubra a beleza e a riqueza natural dos recifes de coral do arquipélago de San Andrés a bordo de um semissubmersível. Você poderá admirar de perto a vida marinha e as impressionantes paisagens que oferece um dos mares mais cristalinos do mundo.",
+      "pricing_type": null,
+      "options": [],
+      "pricing_matrix": [],
+      "schedule": {
+        "departure_time": "14:00",
+        "return_time": null,
+        "frequency": "Todos os dias"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio semi-submersível",
+        "banho de mar durante o passeio"
+      ],
+      "excludes": [
+        "Transporte terrestre",
+        "outras despesas não especificadas"
+      ],
+      "language_options": [],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "",
+      "source_chunks": [
+        "page_007.md"
+      ]
+    },
+    {
+      "id": "3",
+      "city": "San Andrés",
+      "title": "Jardín Botánico + Kayak",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 4,
+        "unit": "hours"
+      },
+      "description": "Este passeio começa com uma visita ao Jardim Botânico. Lá poderá observar diferentes espécies de plantas e árvores, bem como a possibilidade de observar aves locais. A subida ao miradouro do Jardim proporciona uma vista única de 360 graus sobre a Ilha. Continuando nosso passeio, você irá para outro local onde vivenciará uma viagem mágica, com vista panorâmica da baía principal, e depois entrará nos manguezais.",
+      "pricing_type": null,
+      "options": [],
+      "pricing_matrix": [],
+      "schedule": {
+        "departure_time": "08:00",
+        "return_time": null,
+        "frequency": "Todos os dias"
+      },
+      "meeting_point": "Informação fornecida na confirmação do serviço.",
+      "includes": [
+        "Transfer privado",
+        "entrada no jardim botânico",
+        "chapéu de praia",
+        "passeios de caiaque",
+        "armário",
+        "sapatos de mar",
+        "coletes salva-vidas"
+      ],
+      "excludes": [
+        "Impostos",
+        "despesas não especificadas"
+      ],
+      "language_options": [],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "",
+      "source_chunks": [
+        "page_007.md"
+      ]
+    },
+    {
+      "id": "4",
+      "city": "San Andrés",
+      "title": "Amanecer Isleño + Namaste",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 5,
+        "unit": "hours"
+      },
+      "description": "Neste passeio você viverá a experiência de conhecer a calma matinal da baía; ver o nascer do sol sobre o mar de sete cores e presenciar a paleta de cores que ele se torna com o primeiro raio de sol. A atividade termina com um passeio de mergulho/snorkeling numa zona de corais e cardumes de peixes. Depois iremos levá-lo a navegar até Namasté...um espaço pensado para proporcionar uma experiência holística. Um café da manhã saudável e uma sessão de ioga são servidos.",
+      "pricing_type": null,
+      "options": [],
+      "pricing_matrix": [],
+      "schedule": {
+        "departure_time": "05:30",
+        "return_time": "10:30",
+        "frequency": "Todos os dias"
+      },
+      "meeting_point": "Na confirmação da reserva",
+      "includes": [
+        "Pequeno-almoço saudável",
+        "sessão de yoga",
+        "cacifo",
+        "sapatos de mar",
+        "máscaras"
+      ],
+      "excludes": [
+        "Despesas não especificadas"
+      ],
+      "language_options": [],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": null,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "",
+      "source_chunks": [
+        "page_007.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "Tour a Johnny Cay e Aquário Tradicional",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 6,
+        "unit": "hours"
+      },
+      "description": "Passeio de barco até as ilhas próximas (Haynes Cay + Rose Cay (Aquário) + Johnny Cay). Ao chegar a Haynes Cay você poderá atravessar a nova ponte flutuante Rose Cay (Aquário) onde poderá desfrutar de sua abundante fauna marinha em águas cristalinas. Depois continuarão o passeio até a ilha de Johnny Cay, famosa por suas praias de areia branca que abraçam o verde das palmeiras e proporcionam sombra fresca. As praias são perfeitas para caminhadas em algumas áreas, onde se destacam corais exóticos que criam belos poços de águas cristalinas e você também observará as exóticas iguanas que vivem neste parque.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 50,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 45,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 40,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 35,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "08:30",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Marina de Tonino",
+      "includes": [
+        "Transporte de barco",
+        "Visita aos locais mencionados",
+        "Taxa ecológica",
+        "Assistência da agência"
+      ],
+      "excludes": [
+        "Transporte terrestre",
+        "Equipamento de mergulho ou snorkel",
+        "Almoço",
+        "Serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": [
+          "Condições meteorológicas adversas"
+        ]
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Se você não puder ir quando as ilhotas estiverem fechadas devido ao mau tempo ou dia de limpeza, será substituído por um passeio pela baía e pelos manguezais. 1 bebida será oferecida (Água ou Refrigerante) durante o passeio, quando o fechamento for no Aquário. Aplicam-se restrições para bebés, adultos com mais de 65 anos, grávidas, pessoas com deficiência.",
+      "source_chunks": [
+        "page_006.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "Acuario, Bahía + Manglares",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3,
+        "unit": "hours"
+      },
+      "description": "Começamos com um passeio mágico pela baía principal, com vista para os manguezais que abrigam um jardim de espécies interessantes para conhecer. Depois, seguimos para o grupo de chaves, formado por Haynes Cay e Rose Cay. No primeiro, de origem coralina, encontram-se restaurantes de comida típica. Você pode atravessar o segundo pela nova ponte flutuante até o banco de areia alongado, que pode encolher de acordo com o fluxo e refluxo das marés. Suas águas cristalinas abrigam um aquário natural, que pode ser visto a olho nu.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 30,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 28,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 25,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 22,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "08:30",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Marina do Tonino, quiosque Over Receptour",
+      "includes": [
+        "Transporte de barco",
+        "Visita panorâmica aos manguezais e às Aquarium Keys e Haines Cay"
+      ],
+      "excludes": [
+        "Transporte terrestre",
+        "Equipamento de mergulho ou snorkeling",
+        "Serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": [
+          "Condições meteorológicas adversas"
+        ]
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Se você não puder ir quando as chaves estiverem fechadas devido ao mau tempo ou dia de limpeza, este passeio será substituído pelo Johnny Cay Traditional.",
+      "source_chunks": [
+        "page_006.md"
+      ]
+    },
+    {
+      "id": "3",
+      "city": "San Andrés",
+      "title": "Passeio de um dia pela Baía",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2,
+        "unit": "hours"
+      },
+      "description": "Desfrute de um emocionante passeio de catamarã pela bela baía principal de San Andrés. Este divertido passeio é oferecido tanto na tranquilidade da manhã quanto na magia da tarde. Durante o passeio eles curtem música caribenha, rumba e muita diversão.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 20,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 18,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 15,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 12,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "09:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio de aproximadamente uma hora e meia",
+        "Bebida de boas-vindas",
+        "Passeio pela baía principal",
+        "DJ animador e dançarinos ao vivo"
+      ],
+      "excludes": [
+        "Transporte terrestre hotel - marina - hotel",
+        "Bebidas",
+        "Alimentação",
+        "Outras despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": [
+          "Condições meteorológicas adversas"
+        ]
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Todos os dias, dependendo da disponibilidade e das condições meteorológicas.",
+      "source_chunks": [
+        "page_006.md"
+      ]
+    },
+    {
+      "id": "4",
+      "city": "San Andrés",
+      "title": "Semi - Sumergible",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 1.5,
+        "unit": "hours"
+      },
+      "description": "Embarque em uma viagem fascinante pelas profundezas do Mar do Caribe e descubra a beleza e a riqueza natural dos recifes de coral do arquipélago de San Andrés a bordo de um semissubmersível. Você poderá admirar de perto a vida marinha e as impressionantes paisagens que oferece um dos mares mais cristalinos do mundo.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 25,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 22,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 20,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 18,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "14:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio semi-submersível",
+        "Banho de mar durante o passeio"
+      ],
+      "excludes": [
+        "Transporte terrestre",
+        "Outras despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": [
+          "Condições meteorológicas adversas"
+        ]
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Todos os dias, aplicam-se restrições devido às condições meteorológicas.",
+      "source_chunks": [
+        "page_006.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "Retorne à Ilha Privada",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3,
+        "unit": "hours"
+      },
+      "description": "Um passeio completo com guia-acompanhante, que oferece a oportunidade inigualável de visitar diversos pontos turísticos da Ilha, a bordo de um microônibus climatizado. Passamos pelo Mirador de la Loma, incluindo visita a: Casa Museu, Museu de História Naval e Cultural do Arquipélago, parada para banho nas praias de San Luis, além de parada para fotos no I Love San Andrés e passeio panorâmico na Zona Comercial, open bar com bebidas nacionais desde a primeira parada.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 50,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 45,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 40,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": null,
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Lobby Hotel",
+      "includes": [
+        "Transporte em veículo particular com ar condicionado",
+        "Acompanhante turístico",
+        "Entrada nos locais visitados",
+        "Bebidas nacionais",
+        "Lanche"
+      ],
+      "excludes": [
+        "Despesas ou serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Todos os dias, sujeito a disponibilidade.",
+      "source_chunks": [
+        "page_009.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "Snorkeling",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3.5,
+        "unit": "hours"
+      },
+      "description": "Neste lindo passeio de snorkeling faremos um passeio pela baía principal das ilhas, apreciando o mágico mar de 7 cores, você viverá a experiência de mergulhar em águas cristalinas e observar a bela fauna e flora nos jardins subaquáticos.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 30,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 28,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 25,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "10:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Lobby do hotel Decameron",
+      "includes": [
+        "Transporte",
+        "Visita ao abismo",
+        "Jardim subaquático",
+        "Equipamento de snorkeling"
+      ],
+      "excludes": [
+        "Gastos não especificados",
+        "Para hotéis localizados na zona 3 consultar ponto de encontro"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Todos os dias, aplicam-se restrições climáticas.",
+      "source_chunks": [
+        "page_009.md"
+      ]
+    },
+    {
+      "id": "3",
+      "city": "San Andrés",
+      "title": "Acuario y Johnny Cay",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 4,
+        "unit": "hours"
+      },
+      "description": "Passeio de barco até as ilhas próximas (Haynes Cay + Rose Cay (Aquário) + Johnny Cay). Ao chegar a Haynes Cay você poderá atravessar a nova ponte flutuante Rose Cay (Aquário) onde poderá desfrutar de sua abundante fauna marinha em águas cristalinas. Depois continuarão o passeio até a ilha de Johnny Cay, famosa por suas praias de areia branca que abraçam o verde das palmeiras e proporcionam sombra fresca.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 35,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 32,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 30,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": null,
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Transporte",
+        "Guia especializado",
+        "Entrada nas ilhas"
+      ],
+      "excludes": [
+        "Despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Todos os dias, sujeito a disponibilidade e restrições meteorológicas.",
+      "source_chunks": [
+        "page_009.md"
+      ]
+    },
+    {
+      "id": "4",
+      "city": "San Andrés",
+      "title": "Passeio de um dia pela Baía",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2,
+        "unit": "hours"
+      },
+      "description": "Desfrute de um emocionante passeio de catamarã pela bela baía principal de San Andrés. Este divertido passeio é oferecido tanto na tranquilidade da manhã quanto na magia da tarde. Durante o passeio eles curtem música caribenha, rumba e muita diversão.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 25,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 22,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 20,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": null,
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio de aproximadamente uma hora e meia",
+        "Bebida de boas-vindas",
+        "DJ animador e dançarinos ao vivo"
+      ],
+      "excludes": [
+        "Transporte terrestre hotel - marina - hotel",
+        "Bebidas",
+        "Alimentação",
+        "Outras despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Todos os dias, dependendo da disponibilidade e das condições meteorológicas.",
+      "source_chunks": [
+        "page_009.md"
+      ]
+    },
+    {
+      "id": "5",
+      "city": "San Andrés",
+      "title": "Semi - Sumergible",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 1.5,
+        "unit": "hours"
+      },
+      "description": "Embarque em uma viagem fascinante pelas profundezas do Mar do Caribe e descubra a beleza e a riqueza natural dos recifes de coral do arquipélago de San Andrés a bordo de um semissubmersível. Você poderá admirar de perto a vida marinha e as impressionantes paisagens que oferece um dos mares mais cristalinos do mundo.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 30,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 28,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 25,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "14:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio semi-submersível",
+        "Banho de mar durante o passeio"
+      ],
+      "excludes": [
+        "Transporte terrestre",
+        "Outras despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Todos os dias, aplicam-se restrições devido às condições meteorológicas.",
+      "source_chunks": [
+        "page_009.md"
+      ]
+    },
+    {
+      "id": "6",
+      "city": "San Andrés",
+      "title": "Jardim Botânico",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 4,
+        "unit": "hours"
+      },
+      "description": "Passeio com passagens espetaculares e espécies interessantes para conhecer e respeitar. Eles terão um guia especializado durante todo o passeio.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 40,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 35,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 30,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "08:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Informação fornecida na confirmação do serviço.",
+      "includes": [
+        "Transfer privado",
+        "Entrada no jardim botânico",
+        "Chapéis de praia",
+        "Passeios de caiaque",
+        "Armário",
+        "Sapatos de mar",
+        "Coletes salva-vidas"
+      ],
+      "excludes": [
+        "Impostos",
+        "Despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Todos os dias, sujeito a disponibilidade e restrições meteorológicas.",
+      "source_chunks": [
+        "page_009.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "Traslado de barco e snorkeling",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 6,
+        "unit": "hours"
+      },
+      "description": "Este passeio inclui caminhadas em áreas com corais exóticos, onde você poderá observar poços de águas cristalinas e majestosas iguanas. O tour é perfeito para quem ama a natureza e deseja explorar a beleza do parque.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 50,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 45,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 40,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "08:30",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Marina do Tonino",
+      "includes": [
+        "Transporte hotel-marina-hotel",
+        "Transporte de barco",
+        "Taxa ecológica",
+        "Assistência da agência"
+      ],
+      "excludes": [
+        "Equipamento de mergulho ou snorkeling",
+        "Despesas ou serviços não especificados",
+        "Alimentação por contas de clientes"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 10,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Existem restrições para bebés, adultos com mais de 65 anos, grávidas, pessoas com deficiência. Se o passeio for cancelado devido ao mau tempo, será substituído por um passeio pela baía e manguezais.",
+      "source_chunks": [
+        "page_010.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "Amanecer Isleño + Namaste",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 5,
+        "unit": "hours"
+      },
+      "description": "Experimente a calma matinal da baía, veja o nascer do sol sobre o mar de sete cores e participe de uma sessão de ioga em um espaço holístico. O passeio termina com um mergulho em uma zona de corais.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 30,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 28,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 25,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "05:30",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Na confirmação da reserva",
+      "includes": [
+        "Pequeno-almoço saudável",
+        "Sessão de yoga",
+        "Cacifo",
+        "Sapatos de mar",
+        "Máscaras"
+      ],
+      "excludes": [
+        "Despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 10,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Aplicam-se restrições devido às condições meteorológicas.",
+      "source_chunks": [
+        "page_010.md"
+      ]
+    },
+    {
+      "id": "3",
+      "city": "San Andrés",
+      "title": "Jardín Botánico + Kayak",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 4,
+        "unit": "hours"
+      },
+      "description": "Visite o Jardim Botânico e observe diversas espécies de plantas e aves locais. O passeio inclui uma viagem de caiaque pelos manguezais, proporcionando uma vista panorâmica da baía.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 35,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 32,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 30,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "08:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Informação fornecida na confirmação do serviço",
+      "includes": [
+        "Transfer privado",
+        "Entrada no jardim botânico",
+        "Chapéu de praia",
+        "Passeios de caiaque",
+        "Armário",
+        "Sapatos de mar",
+        "Coletes salva-vidas"
+      ],
+      "excludes": [
+        "Impostos",
+        "Despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 10,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Sujeito a disponibilidade e restrições meteorológicas.",
+      "source_chunks": [
+        "page_010.md"
+      ]
+    },
+    {
+      "id": "4",
+      "city": "San Andrés",
+      "title": "Mini Catamarán",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2,
+        "unit": "hours"
+      },
+      "description": "Descubra um paraíso caribenho em um passeio ecológico de catamarã, incluindo uma visita ao manguezal da baía. O guia especializado mostrará a flora e fauna marinha.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 40,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 38,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 35,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "09:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Lobby do Hotel",
+      "includes": [
+        "Transporte terrestre Hotel-Náutica-Hotel",
+        "Instrução teórico-prática",
+        "Passeio de aproximadamente 2 horas",
+        "Guia acompanhante"
+      ],
+      "excludes": [
+        "Despesas ou serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 8,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Aplica restrições em função da capacidade de mobilidade do passageiro.",
+      "source_chunks": [
+        "page_010.md"
+      ]
+    },
+    {
+      "id": "5",
+      "city": "San Andrés",
+      "title": "City Tour Completo",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3.5,
+        "unit": "hours"
+      },
+      "description": "Explore o melhor da ilha com um city tour completo, visitando locais tradicionais como a Primeira Igreja Baptista e a Casa Museu da Ilha. O tour inclui transporte em microônibus e acompanhamento de guia.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 25,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 23,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 20,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "08:30",
+        "return_time": null,
+        "frequency": "Terça, Quinta e Sábado"
+      },
+      "meeting_point": "Lobby dos Hotéis Decameron",
+      "includes": [
+        "Passeio em microônibus ou chiva",
+        "Acompanhante turístico",
+        "Entrada nos locais visitados",
+        "Bebidas nacionais",
+        "Lanche"
+      ],
+      "excludes": [],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 10,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Aplicam-se restrições de acordo com a capacidade de mobilidade do passageiro.",
+      "source_chunks": [
+        "page_010.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "Native Tour",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": "Zona 1"
+      },
+      "duration": {
+        "quantity": 3,
+        "unit": "hours"
+      },
+      "description": "Neste maravilhoso passeio nativo, na nossa primeira parada será oferecido um passeio por uma típica fazenda rural, onde o proprietário compartilhará exemplos da tradição oral da ilha, você terá tempo para provar uma fruta da estação, observar pássaros, iguanas, tartarugas e caranguejos pretos. Para alegria do visitante, o proprietário, que é um artista famoso, apresentará uma pequena amostra de uma a duas músicas. Em segundo lugar, irão ao spa West View, onde reservarão um almoço típico e enquanto o preparam aproveitarão um mergulho na piscina onde observarão peixes naturais. Após o delicioso almoço, você retornará ao seu alojamento.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 138,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 80,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 62,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 54,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 49,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 6,
+          "price": 46,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "10:00",
+        "return_time": null,
+        "frequency": "Quarta e Sexta"
+      },
+      "meeting_point": "Traslado de ida e volta do hotel",
+      "includes": [
+        "Traslado terrestre",
+        "Almoço",
+        "Guia acompanhante",
+        "Avistamento de fauna nativa"
+      ],
+      "excludes": [
+        "Despesas ou serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 6,
+      "observations": "Reserva a partir de 6 passageiros.",
+      "source_chunks": [
+        "page_008.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "Passeio de um dia pela Baía",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2,
+        "unit": "hours"
+      },
+      "description": "Desfrute de um emocionante passeio de catamarã pela bela baía principal de San Andrés. Este divertido passeio é oferecido tanto na tranquilidade da manhã quanto na magia da tarde. Durante o passeio eles curtem música caribenha, rumba e muita diversão. Não perca a oportunidade de viver uma experiência inesquecível neste paraíso tropical!",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 21,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 18,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 15,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 12,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 10,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 6,
+          "price": 9,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": null,
+        "return_time": null,
+        "frequency": "Todos os dias"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio de aproximadamente uma hora e meia",
+        "Bebida de boas-vindas",
+        "Passeio pela baía principal",
+        "DJ animador e dançarinos ao vivo"
+      ],
+      "excludes": [
+        "Transporte terrestre hotel - marina - hotel",
+        "Bebidas",
+        "Alimentação",
+        "Outras despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 10,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Horário exato especificado no voucher.",
+      "source_chunks": [
+        "page_008.md"
+      ]
+    },
+    {
+      "id": "3",
+      "city": "San Andrés",
+      "title": "Semi - Sumergible",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 1.5,
+        "unit": "hours"
+      },
+      "description": "Embarque em uma viagem fascinante pelas profundezas do Mar do Caribe e descubra a beleza e a riqueza natural dos recifes de coral do arquipélago de San Andrés a bordo de um semissubmersível. Você poderá admirar de perto a vida marinha e as impressionantes paisagens que oferece um dos mares mais cristalinos do mundo.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 25,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 22,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 20,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 18,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 16,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 6,
+          "price": 15,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "14:00",
+        "return_time": null,
+        "frequency": "Todos os dias"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio semi-submersível",
+        "Banho de mar durante o passeio"
+      ],
+      "excludes": [
+        "Transporte terrestre",
+        "Outras despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 10,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Aplicam-se restrições devido às condições meteorológicas.",
+      "source_chunks": [
+        "page_008.md"
+      ]
+    },
+    {
+      "id": "4",
+      "city": "San Andrés",
+      "title": "Retorne à Ilha Privada",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3,
+        "unit": "hours"
+      },
+      "description": "Um passeio completo com guia-acompanhante, que oferece a oportunidade inigualável de visitar diversos pontos turísticos da Ilha, a bordo de um microônibus climatizado (de acordo com o número de passageiros). Passamos pelo Mirador de la Loma, incluindo visita a: Casa Museu, Museu de História Naval e Cultural do Arquipélago, parada para banho nas praias de San Luis, além de parada para fotos no I Love San Andrés e passeio panorâmico na Zona Comercial, open bar com bebidas nacionais desde a primeira parada.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 30,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 28,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 25,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 22,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 20,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 6,
+          "price": 18,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": null,
+        "return_time": null,
+        "frequency": "Todos os dias"
+      },
+      "meeting_point": "Lobby Hotel",
+      "includes": [
+        "Transporte em veículo particular com ar condicionado",
+        "Acompanhante turístico",
+        "Entrada nos locais visitados",
+        "Bebidas nacionais",
+        "Lanche",
+        "Parada para banho nas praias de San Luis"
+      ],
+      "excludes": [
+        "Despesas ou serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 10,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Horário de encontro a combinar (manhã ou tarde).",
+      "source_chunks": [
+        "page_008.md"
+      ]
+    },
+    {
+      "id": "5",
+      "city": "San Andrés",
+      "title": "Snorkeling",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3.5,
+        "unit": "hours"
+      },
+      "description": "Neste lindo passeio de snorkeling faremos um passeio pela baía principal das ilhas, apreciando o mágico mar de 7 cores, você viverá a experiência de mergulhar em águas cristalinas e observar a bela fauna e flora nos jardins subaquáticos.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 40,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 35,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 30,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 28,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 25,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 6,
+          "price": 22,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "10:00",
+        "return_time": null,
+        "frequency": "Todos os dias"
+      },
+      "meeting_point": "Lobby do hotel Decameron",
+      "includes": [
+        "Transporte",
+        "Visita ao abismo",
+        "Jardim subaquático",
+        "Equipamento de snorkeling"
+      ],
+      "excludes": [
+        "Gastos não especificados",
+        "Para hotéis localizados na zona 3 consultar ponto de encontro."
+      ],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 10,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Aplicam-se restrições climáticas.",
+      "source_chunks": [
+        "page_008.md"
+      ]
+    },
+    {
+      "id": "6",
+      "city": "San Andrés",
+      "title": "Acuario y Johnny Cay",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3,
+        "unit": "hours"
+      },
+      "description": "Passeio de barco até as ilhas próximas (Haynes Cay + Rose Cay (Aquário) + Johnny Cay). Ao chegar a Haynes Cay você poderá atravessar a nova ponte flutuante Rose Cay (Aquário) onde poderá desfrutar de sua abundante fauna marinha em águas cristalinas. Depois continuarão o passeio até a ilha de Johnny Cay, famosa por suas praias de areia branca que abraçam o verde das palmeiras e proporcionam sombra fresca.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 50,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 45,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 40,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 38,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 5,
+          "price": 35,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 6,
+          "price": 30,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": null,
+        "return_time": null,
+        "frequency": "Todos os dias"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Transporte de barco",
+        "Visita a Haynes Cay e Johnny Cay"
+      ],
+      "excludes": [
+        "Despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 10,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Aplicam-se restrições climáticas.",
+      "source_chunks": [
+        "page_008.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "San Andrés",
+      "title": "Retorne à Ilha Privada",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3,
+        "unit": "hours"
+      },
+      "description": "Um passeio completo com guia-acompanhante, que oferece a oportunidade inigualável de visitar diversos pontos turísticos da Ilha, a bordo de um microônibus climatizado. Passamos pelo Mirador de la Loma, incluindo visita a: Casa Museu, Museu de História Naval e Cultural do Arquipélago, parada para banho nas praias de San Luis, além de parada para fotos no I Love San Andrés e passeio panorâmico na Zona Comercial, open bar com bebidas nacionais desde a primeira parada.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 30,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 28,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 26,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 25,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": null,
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Lobby Hotel",
+      "includes": [
+        "Transporte em veículo particular com ar condicionado",
+        "Acompanhante turístico",
+        "Entrada nos locais visitados",
+        "Bebidas nacionais",
+        "Lanche",
+        "Parada para banho nas praias de San Luis"
+      ],
+      "excludes": [
+        "Despesas ou serviços não especificados"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Frequência: Todos os dias, sujeito a disponibilidade. Horário de encontro: A combinar (manhã ou tarde).",
+      "source_chunks": [
+        "page_012.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "San Andrés",
+      "title": "Snorkeling",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 3.5,
+        "unit": "hours"
+      },
+      "description": "Neste lindo passeio de snorkeling faremos um passeio pela baía principal das ilhas, apreciando o mágico mar de 7 cores, você viverá a experiência de mergulhar em águas cristalinas e observar a bela fauna e flora nos jardins subaquáticos.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 40,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 38,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 36,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 35,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "10:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Lobby do hotel Decameron",
+      "includes": [
+        "Transporte",
+        "Visita ao abismo",
+        "Jardim subaquático",
+        "Equipamento de snorkeling"
+      ],
+      "excludes": [
+        "Gastos não especificados",
+        "Para hotéis localizados na zona 3 consultar ponto de encontro"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Frequência: Todos os dias, aplicam-se restrições climáticas. Horário do encontro: 10:00 aprox.",
+      "source_chunks": [
+        "page_012.md"
+      ]
+    },
+    {
+      "id": "3",
+      "city": "San Andrés",
+      "title": "Acuario y Johnny Cay",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 4,
+        "unit": "hours"
+      },
+      "description": "Passeio de barco até as ilhas próximas (Haynes Cay + Rose Cay (Aquário) + Johnny Cay). Ao chegar a Haynes Cay você poderá atravessar a nova ponte flutuante Rose Cay (Aquário) onde poderá desfrutar de sua abundante fauna marinha em águas cristalinas. Depois continuarão o passeio até a ilha de Johnny Cay, famosa por suas praias de areia branca que abraçam o verde das palmeiras e proporcionam sombra fresca.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 50,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 48,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 46,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 45,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "08:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Informação fornecida na confirmação do serviço",
+      "includes": [
+        "Transfer privado",
+        "Entrada no jardim botânico",
+        "Chapéu de praia",
+        "Passeios de caiaque",
+        "Armário",
+        "Sapatos de mar",
+        "Coletes salva-vidas"
+      ],
+      "excludes": [
+        "Impostos",
+        "Despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 1,
+      "observations": "Frequência: Todos os dias, sujeito a disponibilidade e restrições meteorológicas. Horário da reunião: 8h00.",
+      "source_chunks": [
+        "page_012.md"
+      ]
+    },
+    {
+      "id": "1",
+      "city": "Colombia",
+      "title": "Jardín Botânico + Kayak",
+      "location": {
+        "main": "Colombia",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 4,
+        "unit": "hours"
+      },
+      "description": "Este maravilhoso passeio começa com uma visita ao Jardim Botânico. Lá poderá observar diferentes espécies de plantas e árvores, bem como a possibilidade de observar aves locais. A subida ao miradouro do Jardim proporciona uma vista única de 360 graus sobre a Ilha. Continuando nosso passeio, você irá para outro local onde vivenciará uma viagem mágica, com vista panorâmica da baía principal, e depois entrará nos manguezais.",
+      "pricing_type": "per_vehicle",
+      "options": [
+        {
+          "name_option": "Transfer privado",
+          "details": [
+            {
+              "capacity": "01-03 pax",
+              "vehicle_options": "car",
+              "price": {
+                "quantity": 625,
+                "currency": "EUR"
+              }
+            },
+            {
+              "capacity": "04-06 pax",
+              "vehicle_options": "van",
+              "price": {
+                "quantity": 625,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "name_option": "Entrada no jardim botânico. Preço por pax",
+          "details": [
+            {
+              "capacity": "all",
+              "vehicle_options": null,
+              "price": {
+                "quantity": 13,
+                "currency": "EUR"
+              }
+            }
+          ]
+        }
+      ],
+      "schedule": {
+        "departure_time": "08:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Informação fornecida na confirmação do serviço.",
+      "includes": [
+        "Transfer privado",
+        "Entrada no jardim botânico",
+        "Chapéu de praia",
+        "Passeios de caiaque",
+        "Armário",
+        "Sapatos de mar",
+        "Coletes salva-vidas"
+      ],
+      "excludes": [
+        "Impostos",
+        "Despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Frequência: Todos os dias, sujeito a disponibilidade e restrições meteorológicas. Idade: Existem restrições para bebés, adultos com mais de 65 anos, grávidas, pessoas com deficiência (cadeiras de rodas ou que necessitem de ajuda especial para entrar e sair dos barcos).",
+      "source_chunks": [
+        "page_013.md"
+      ]
+    },
+    {
+      "id": "2",
+      "city": "Colombia",
+      "title": "Amanecer Isleño + Namaste",
+      "location": {
+        "main": "Colombia",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 5,
+        "unit": "hours"
+      },
+      "description": "Neste passeio você viverá a experiência de conhecer a calma matinal da baía; ver o nascer do sol sobre o mar de sete cores e presenciar a paleta de cores que ele se torna com o primeiro raio de sol. A atividade termina com um passeio de mergulho/snorkeling numa zona de corais e cardumes de peixes. Depois iremos levá-lo a navegar até Namasté...um espaço pensado para proporcionar uma experiência holística. Um café da manhã saudável e uma sessão de ioga são servidos.",
+      "pricing_type": "per_person",
+      "pricing_matrix": [
+        {
+          "pax_count": 1,
+          "price": 21,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 2,
+          "price": 19,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 3,
+          "price": 18,
+          "currency": "USD"
+        },
+        {
+          "pax_count": 4,
+          "price": 17,
+          "currency": "USD"
+        }
+      ],
+      "schedule": {
+        "departure_time": "05:30",
+        "return_time": "10:30",
+        "frequency": "Diário"
+      },
+      "meeting_point": "Na confirmação da reserva",
+      "includes": [
+        "Pequeno-almoço saudável",
+        "Sessão de yoga",
+        "Cacifo",
+        "Sapatos de mar",
+        "Máscaras"
+      ],
+      "excludes": [
+        "Despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Frequência: Todos os dias, aplicam-se restrições devido às condições meteorológicas.",
+      "source_chunks": [
+        "page_013.md"
+      ]
+    },
+    {
+      "id": "TOUR_001",
+      "city": "San Andrés",
+      "title": "Jardín Botánico + Kayak",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 4,
+        "unit": "hours"
+      },
+      "description": "Este maravilhoso passeio começa com uma visita ao Jardim Botânico. Lá poderá observar diferentes espécies de plantas e árvores, bem como a possibilidade de observar aves locais. A subida ao miradouro do Jardim proporciona uma vista única de 360 graus sobre a Ilha. Continuando nosso passeio, você irá para outro local onde vivenciará uma viagem mágica, com vista panorâmica da baía principal, e depois entrará nos manguezais.",
+      "pricing_type": "per_vehicle",
+      "options": [
+        {
+          "name_option": "Transfer privado",
+          "details": [
+            {
+              "capacity": "01-03 pax",
+              "vehicle_options": "car",
+              "price": {
+                "quantity": 625,
+                "currency": "EUR"
+              }
+            },
+            {
+              "capacity": "04-06 pax",
+              "vehicle_options": "van",
+              "price": {
+                "quantity": 625,
+                "currency": "EUR"
+              }
+            }
+          ]
+        },
+        {
+          "name_option": "Entrada no jardim botânico",
+          "details": [
+            {
+              "capacity": "all",
+              "vehicle_options": null,
+              "price": {
+                "quantity": 13,
+                "currency": "EUR"
+              }
+            }
+          ]
+        }
+      ],
+      "schedule": {
+        "departure_time": "08:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Informação fornecida na confirmação do serviço",
+      "includes": [
+        "Transfer privado",
+        "Entrada no jardim botânico",
+        "Chapéu de praia",
+        "Passeios de caiaque",
+        "Armário",
+        "Sapatos de mar",
+        "Coletes salva-vidas"
+      ],
+      "excludes": [
+        "Impostos",
+        "Despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Frequência: Todos os dias, sujeito a disponibilidade e restrições meteorológicas. Horário da reunião: 8h00.",
+      "source_chunks": [
+        "page_011.md"
+      ]
+    },
+    {
+      "id": "TOUR_002",
+      "city": "San Andrés",
+      "title": "Passeio de um dia pela Baía",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 2,
+        "unit": "hours"
+      },
+      "description": "Desfrute de um emocionante passeio de catamarã pela bela baía principal de San Andrés. Este divertido passeio é oferecido tanto na tranquilidade da manhã quanto na magia da tarde. Durante o passeio eles curtem música caribenha, rumba e muita diversão. Não perca a oportunidade de viver uma experiência inesquecível neste paraíso tropical!",
+      "pricing_type": "per_vehicle",
+      "options": [
+        {
+          "name_option": "Passeio de catamarã",
+          "details": [
+            {
+              "capacity": "all",
+              "vehicle_options": null,
+              "price": {
+                "quantity": 50,
+                "currency": "USD"
+              }
+            }
+          ]
+        }
+      ],
+      "schedule": {
+        "departure_time": "09:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio de aproximadamente uma hora e meia",
+        "Bebida de boas-vindas",
+        "Passeio pela baía principal",
+        "DJ animador",
+        "Dançarinos ao vivo"
+      ],
+      "excludes": [
+        "Transporte terrestre hotel - marina - hotel",
+        "Bebidas",
+        "Alimentação",
+        "Outras despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Frequência: Todos os dias, dependendo da disponibilidade e das condições meteorológicas. Horário da reunião: Manhã ou Tarde (Horário exato especificado no voucher).",
+      "source_chunks": [
+        "page_011.md"
+      ]
+    },
+    {
+      "id": "TOUR_003",
+      "city": "San Andrés",
+      "title": "Semi - Sumergible",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 1.5,
+        "unit": "hours"
+      },
+      "description": "Embarque em uma viagem fascinante pelas profundezas do Mar do Caribe e descubra a beleza e a riqueza natural dos recifes de coral do arquipélago de San Andrés a bordo de um semissubmersível. Você poderá admirar de perto a vida marinha e as impressionantes paisagens que oferece um dos mares mais cristalinos do mundo.",
+      "pricing_type": "per_vehicle",
+      "options": [
+        {
+          "name_option": "Passeio semi-submersível",
+          "details": [
+            {
+              "capacity": "all",
+              "vehicle_options": null,
+              "price": {
+                "quantity": 30,
+                "currency": "USD"
+              }
+            }
+          ]
+        }
+      ],
+      "schedule": {
+        "departure_time": "14:00",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Cais de Portofino",
+      "includes": [
+        "Passeio semi-submersível",
+        "Banho de mar durante o passeio"
+      ],
+      "excludes": [
+        "Transporte terrestre",
+        "Outras despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Frequência: Todos os dias, aplicam-se restrições devido às condições meteorológicas.",
+      "source_chunks": [
+        "page_011.md"
+      ]
+    },
+    {
+      "id": "TOUR_004",
+      "city": "San Andrés",
+      "title": "Amanecer Isleño + Namaste",
+      "location": {
+        "main": "San Andrés",
+        "region": null,
+        "zone": null
+      },
+      "duration": {
+        "quantity": 5,
+        "unit": "hours"
+      },
+      "description": "Neste passeio você viverá a experiência de conhecer a calma matinal da baía; ver o nascer do sol sobre o mar de sete cores e presenciar a paleta de cores que ele se torna com o primeiro raio de sol. A atividade termina com um passeio de mergulho/snorkeling numa zona de corais e cardumes de peixes. Depois iremos levá-lo a navegar até Namasté...um espaço pensado para proporcionar uma experiência holística. Um café da manhã saudável e uma sessão de ioga são servidos.",
+      "pricing_type": "per_vehicle",
+      "options": [
+        {
+          "name_option": "Amanecer Isleño + Namaste",
+          "details": [
+            {
+              "capacity": "all",
+              "vehicle_options": null,
+              "price": {
+                "quantity": 40,
+                "currency": "USD"
+              }
+            }
+          ]
+        }
+      ],
+      "schedule": {
+        "departure_time": "05:30",
+        "return_time": null,
+        "frequency": "Diário"
+      },
+      "meeting_point": "Na confirmação da reserva",
+      "includes": [
+        "Pequeno-almoço saudável",
+        "Sessão de yoga",
+        "Cacifo",
+        "Sapatos de mar",
+        "Máscaras"
+      ],
+      "excludes": [
+        "Despesas não especificadas"
+      ],
+      "language_options": [
+        "espanhol",
+        "inglês",
+        "português",
+        "francês"
+      ],
+      "operation": {
+        "non_operating_periods": []
+      },
+      "min_adults": 1,
+      "max_adults": 6,
+      "max_childrens": null,
+      "min_booking": 2,
+      "observations": "Frequência: Todos os dias, aplicam-se restrições devido às condições meteorológicas.",
+      "source_chunks": [
+        "page_011.md"
+      ]
+    }
+  ]
+}

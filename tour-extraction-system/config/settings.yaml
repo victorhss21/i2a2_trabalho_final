@@ -1,0 +1,43 @@
+# Configurações do Sistema de Extração de Tours
+system:
+  name: "Tour Extraction System"
+  version: "3.0.0"
+
+# Diretórios
+directories:
+  uploads: "uploads"
+  chunks: "output/chunks"
+  index: "output/index"
+  results: "output/results"
+
+# Processamento de PDF
+pdf_processing:
+  enable_ocr: true
+  pages_per_chunk: 1  # 1 página = 1 chunk
+
+# Indexação Semântica
+indexing:
+  model: "sentence-transformers/all-MiniLM-L6-v2"
+  normalize_embeddings: true
+
+# Extração com LLM
+extraction:
+  llm_model: "openai/gpt-4o-mini"
+  temperature: 0.0
+  max_workers: 5
+  rate_limit_per_minute: 50
+  max_context_chars: 15000
+
+# Exportação
+export:
+  formats:
+    json: true
+    excel: true
+  excel_max_description_length: 200
+
+# Ativa geração do arquivo .xlsx refinado
+export_refined: true
+
+# Logging
+logging:
+  level: "INFO"  # DEBUG, INFO, WARNING, ERROR

@@ -399,7 +399,7 @@ extraction:
 
 ## 📈 Fluxograma do Sistema
 
-![FluxoGrama](README_figs\figure.svg)
+![FluxoGrama](README_figs/figure.svg)
 
 > **Descrição:**
 > O fluxo inicia com a entrada de um catálogo turístico em PDF por meio da interface Streamlit, passando por um pipeline de processamento que realiza o chunking do PDF, indexação semântica com FAISS, extração de informações de tours via agentes CrewAI em múltiplos idiomas, e estruturação dos dados em JSON. Os resultados são exportados e refinados em duas etapas, gerando tanto um Excel bruto quanto um refinado, e apresentados em uma interface web para visualização e download pelo usuário, com suporte a debug interno para testes e validações.
@@ -408,7 +408,7 @@ extraction:
 
 ## 📱 Fluxo de Uso - Perspectiva do Usuário
 
-![FluxoGrama](README_figs\figure_2.svg)
+![FluxoGrama](README_figs/figure_2.svg)
 
 > **Descrição:**
 > O fluxo começa com a entrada do PDF do catálogo turístico, que é processado por um pipeline central (incluindo Streamlit), passando por etapas integradas de chunking e indexação semântica, seguidas por extração automatizada de tours via agentes CrewAI, resultando em dados refinados e estruturados. Esses dados são exportados e otimizados em Excel bruto e refinado, disponibilizados em uma interface web para visualização e download pelo usuário, com suporte adicional a testes e validação interna por debug dedicado.
